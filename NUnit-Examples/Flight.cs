@@ -14,6 +14,7 @@ namespace NUnit_Examples
 
         public Flight(int id)
         {
+            // Some comments
             this.id = id;
         }
 
